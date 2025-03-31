@@ -1,11 +1,9 @@
-# Ezenia Diaz-Lembert
+# About
 
-### About
+# Education
 
-### Education
-
-### Work Experience
+# Work Experience
 - project 1
 - project 2
 
-### Projects
+# Projects
