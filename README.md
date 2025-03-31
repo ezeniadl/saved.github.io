@@ -33,6 +33,11 @@ IES Abroad | Music History and Performance Program | May-July 2023
 - *Capacitive Pressure Sensor for Glove/Interactive Applications* | Nov 2022-Dec 2022
   - Fabricated a capacitive pressure-sensor system for a wearable glove that plays pre-programmed sounds or beats/sound files set by users in response to tapping individual fingers on a surface.
 
+# Podcast - The Current Collective
+I just started a podcast that's all about tech news, discussions about the latest research I'm interested in, ethics in tech, and advice (especially for my fellow women and FGLI students pursuing STEM)... all in a laid-back, conversational format. I was a bit tired of trying to get into tech podcasts but i always felt like it was almost too tech-bro-on-the-verge-of-Google-Notebook-LM for me. I think tech, research, and innovation are all things that can be so fun to talk about and made digestable such that we can learn something new in 15 minutes and share with a friend. That's why I've started this podcast... and yes I was an avid Sci-Show fan in middle school. 
+
+![The Current Collective](/assets/img/current_collective_logo.png)
+
 # Music
 During my time in college, I was part of an a cappella group called the Harvard-Radcliffe Vertiones (Nov 2021-Aug 2024). Here's some of my performances/work in the group:
 
@@ -43,10 +48,5 @@ During my time in college, I was part of an a cappella group called the Harvard-
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/10azRaDMiF37RNmQLHHJkQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## I have a YouTube channel where I post covers and original music! Feel free to check it out [here](https://www.youtube.com/@ezenia_music).
-
-# Podcast - The Current Collective
-I just started a podcast that's all about tech news, discussions about the latest research I'm interested in, ethics in tech, and advice (especially for my fellow women and FGLI students pursuing STEM)... all in a laid-back, conversational format. I was a bit tired of trying to get into tech podcasts but i always felt like it was almost too tech-bro-on-the-verge-of-Google-Notebook-LM for me. I think tech, research, and innovation are all things that can be so fun to talk about and made digestable such that we can learn something new in 15 minutes and share with a friend. That's why I've started this podcast... and yes I was an avid Sci-Show fan in middle school. 
-
-![The Current Collective](/assets/img/current_collective_logo.png)
 
 
