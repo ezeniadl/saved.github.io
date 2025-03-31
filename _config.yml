@@ -1,5 +1,5 @@
 title: Ezenia Diaz-Lembert
 logo: /assets/img/prof_pic.jpg
 description: Global R&D Consumer Systems and Architecture @ Bose
-#show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
