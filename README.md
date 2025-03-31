@@ -5,6 +5,8 @@ On this website you can find some of my projects, my resume, and podcast/blog co
 
 I also love making music, so you can find some of my other work here– a cappella performances and youtube covers! I am currently working on original music and will be uploading my music here as well. 
 
+In my free time, I enjoy reading, crocheting, and learning music production!
+
 Let's connect on [LinkedIn](https://www.linkedin.com/in/ezenia-diaz-lembert/) or via email at ezenia.diazlembert@gmail.com
 
 # Education
