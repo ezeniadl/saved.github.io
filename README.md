@@ -12,25 +12,25 @@ Harvard College | Bachelor of Science in Electrical Engineering | February 2025
 IES Abroad | Music History and Performance Program | May-July 2023
 
 # Work Experience
-- BOSE Corporation | Framingham, MA | Jan 2025-Present
+- *BOSE Corporation* | Framingham, MA | Jan 2025-Present
   - Designing and deploying FPGA IP Cores for real-time headset audio testing.
   
-- Eaton Corporation | Moon Township, PA | Jun 2024-Aug 2024
+- *Eaton Corporation* | Moon Township, PA | Jun 2024-Aug 2024
   - Worked with the PCD-Air Circuit Breaker team to develop high-speed, high-accuracy next generation circuit breakers.
   - Improved Total Harmonic Distortion computation accuracy from 7th to 39th current harmonic readings.
 
-- BAE Systems | Merrimack, NH | Sep 2023-Jan 2024
+- *BAE Systems* | Merrimack, NH | Sep 2023-Jan 2024
   - Worked with the Mixed Signal Integrated Circuit department.
   - Conducted analog circuit design and analysis, simulations, and PCB layout for electronic systems and company projects.
   
-- Halo Braid | Cambridge, MA | Aug 2023-Sep 2023
+- *Halo Braid* | Cambridge, MA | Aug 2023-Sep 2023
   - Developed a motor control system using an Arduino for an automatic hair braiding system for black hair.
   - Leveraged encoders and mechanical rotation device parameters to optimize braiding pace, improving efficiency by 50%.
   
 # Projects
-- Dynamic Equalization Algorithm | Jan 2024-Dec 2024
+- *Dynamic Equalization Algorithm* | Jan 2024-Dec 2024
   - Designed a real-time adaptive filter for personalized music equalization as a senior capstone project. Used a Convolutional Neural Network and spectral feature extraction on input audio signals for dynamic equalization.
-- Capacitive Pressure Sensor for Glove/Interactive Applications | Nov 2022-Dec 2022
+- *Capacitive Pressure Sensor for Glove/Interactive Applications* | Nov 2022-Dec 2022
   - Fabricated a capacitive pressure-sensor system for a wearable glove that plays pre-programmed sounds or beats/sound files set by users in response to tapping individual fingers on a surface.
 
 # Music
@@ -42,5 +42,11 @@ During my time in college, I was part of an a cappella group called the Harvard-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/10azRaDMiF37RNmQLHHJkQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-I have a YouTube channel where I post covers and original music! Feel free to check it out [here](https://www.youtube.com/@ezenia_music).
+## I have a YouTube channel where I post covers and original music! Feel free to check it out [here](https://www.youtube.com/@ezenia_music).
+
+# Podcast - The Current Collective
+I just started a podcast that's all about tech news, discussions about the latest research I'm interested in, ethics in tech, and advice (especially for my fellow women and FGLI students pursuing STEM)... all in a laid-back, conversational format. I was a bit tired of trying to get into tech podcasts but i always felt like it was almost too tech-bro-on-the-verge-of-Google-Notebook-LM for me. I think tech, research, and innovation are all things that can be so fun to talk about and made digestable such that we can learn something new in 15 minutes and share with a friend. That's why I've started this podcast... and yes I was an avid Sci-Show fan in middle school. 
+
+![The Current Collective](/assets/img/current_collective_logo.png)
+
 
