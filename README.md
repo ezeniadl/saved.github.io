@@ -28,15 +28,17 @@ IES Abroad | Music History and Performance Program | May-July 2023
   - Leveraged encoders and mechanical rotation device parameters to optimize braiding pace, improving efficiency by 50%.
   
 # Projects
-- Dynamic Equalization Algorithm
+- Dynamic Equalization Algorithm | Jan 2024-Dec 2024
   - Designed a real-time adaptive filter for personalized music equalization as a senior capstone project. Used a Convolutional Neural Network and spectral feature extraction on input audio signals for dynamic equalization.
-- Capacitive Pressure Sensor for Glove/Interactive Applications
+- Capacitive Pressure Sensor for Glove/Interactive Applications | Nov 2022-Dec 2022
   - Fabricated a capacitive pressure-sensor system for a wearable glove that plays pre-programmed sounds or beats/sound files set by users in response to tapping individual fingers on a surface.
 
 # Music
-During my time in college, I was part of an a cappella group called the Harvard-Radcliffe Vertiones. Here's some of my performances/work in the group:
+During my time in college, I was part of an a cappella group called the Harvard-Radcliffe Vertiones (Nov 2021-Aug 2024). Here's some of my performances/work in the group:
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/YKqD17HAAtU" title="Fallin&#39; (opb. Alicia Keys) | Veritones A Cappella" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/10azRaDMiF37RNmQLHHJkQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+I have a YouTube channel where I post covers and original music! Feel free to check it out [here](https://www.youtube.com/@ezenia_music).
 
