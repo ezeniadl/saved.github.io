@@ -36,7 +36,7 @@ IES Abroad | Music History and Performance Program | May-July 2023
 # Music
 During my time in college, I was part of an a cappella group called the Harvard-Radcliffe Vertiones. Here's some of my performances/work in the group:
 
-<iframe width="1710" height="747" src="https://www.youtube.com/embed/YKqD17HAAtU" title="Fallin&#39; (opb. Alicia Keys) | Veritones A Cappella" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/YKqD17HAAtU" title="Fallin&#39; (opb. Alicia Keys) | Veritones A Cappella" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/10azRaDMiF37RNmQLHHJkQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
